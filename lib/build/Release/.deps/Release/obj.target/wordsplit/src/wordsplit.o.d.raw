@@ -1,0 +1,56 @@
+Release/obj.target/wordsplit/src/wordsplit.o: ../src/wordsplit.cc \
+  ../node_modules/nan/nan.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/node_version.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/uv.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/uv/errno.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/uv/version.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/uv/unix.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/uv/threadpool.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/uv/darwin.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/node.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/v8.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/v8-internal.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/v8-version.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/v8config.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/v8-platform.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/node_buffer.h \
+  /Users/loretoparisi/Library/Caches/node-gyp/12.13.1/include/node/node_object_wrap.h \
+  ../node_modules/nan/nan_callbacks.h \
+  ../node_modules/nan/nan_callbacks_12_inl.h \
+  ../node_modules/nan/nan_maybe_43_inl.h \
+  ../node_modules/nan/nan_converters.h \
+  ../node_modules/nan/nan_converters_43_inl.h \
+  ../node_modules/nan/nan_new.h \
+  ../node_modules/nan/nan_implementation_12_inl.h \
+  ../node_modules/nan/nan_persistent_12_inl.h \
+  ../node_modules/nan/nan_weak.h ../node_modules/nan/nan_object_wrap.h \
+  ../node_modules/nan/nan_private.h \
+  ../node_modules/nan/nan_typedarray_contents.h \
+  ../node_modules/nan/nan_json.h /usr/local/include/unicode/brkiter.h \
+  /usr/local/include/unicode/utypes.h \
+  /usr/local/include/unicode/umachine.h \
+  /usr/local/include/unicode/ptypes.h \
+  /usr/local/include/unicode/platform.h \
+  /usr/local/include/unicode/uconfig.h \
+  /usr/local/include/unicode/uvernum.h \
+  /usr/local/include/unicode/urename.h \
+  /usr/local/include/unicode/uversion.h /usr/local/include/unicode/utf.h \
+  /usr/local/include/unicode/utf8.h /usr/local/include/unicode/utf16.h \
+  /usr/local/include/unicode/utf_old.h \
+  /usr/local/include/unicode/uobject.h \
+  /usr/local/include/unicode/unistr.h /usr/local/include/unicode/rep.h \
+  /usr/local/include/unicode/std_string.h \
+  /usr/local/include/unicode/stringpiece.h \
+  /usr/local/include/unicode/bytestream.h \
+  /usr/local/include/unicode/ucasemap.h \
+  /usr/local/include/unicode/ustring.h \
+  /usr/local/include/unicode/putil.h /usr/local/include/unicode/uiter.h \
+  /usr/local/include/unicode/localpointer.h \
+  /usr/local/include/unicode/chariter.h \
+  /usr/local/include/unicode/locid.h /usr/local/include/unicode/uloc.h \
+  /usr/local/include/unicode/uenum.h \
+  /usr/local/include/unicode/strenum.h /usr/local/include/unicode/ubrk.h \
+  /usr/local/include/unicode/utext.h /usr/local/include/unicode/uchar.h \
+  /usr/local/include/unicode/parseerr.h \
+  /usr/local/include/unicode/umisc.h \
+  /usr/local/include/unicode/errorcode.h

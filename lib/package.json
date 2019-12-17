@@ -1,0 +1,27 @@
+{
+  "author": "Loreto Parisi",
+  "name": "node-icu",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "https://github.com/loretoparisi/python-icu.git",
+  "repository": {
+    "url": "git@github.com:loretoparisi/python-icu.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "nan": "^2.1.0"
+  },
+  "optionalDependencies": {},
+  "devDependencies": {
+    "underscore": "latest",
+    "chai": "latest",
+    "node-gyp": "~0.8.1"
+  },
+  "engines": {
+    "node": ">= 0.6",
+    "npm": ">= 1.1"
+  },
+  "scripts": {
+    "postinstall": "make all"
+  }
+}
