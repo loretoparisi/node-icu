@@ -15,7 +15,7 @@
   "devDependencies": {
     "underscore": "latest",
     "chai": "latest",
-    "node-gyp": "~9.3.1"
+    "node-gyp": "~12.1.0"
   },
   "engines": {
     "node": ">= 0.6",
